@@ -1,0 +1,4 @@
+interface:
+  display_name: "亚马逊广告方案skill"
+  short_description: "基于ASIN数据生成广告结构、关键词、竞价预算与Excel执行表"
+  default_prompt: "使用 $amazon-ad-plan-skill 为一个 Amazon ASIN 制定可执行广告推进方案，并输出 Excel。"
