@@ -51,12 +51,12 @@ Open [http://127.0.0.1:8765](http://127.0.0.1:8765).
 Use the CLI for deterministic operations:
 
 ```bash
-python3 "/Users/mac/.codex/skills/amazon-competitive-intelligence-monitor/scripts/monitor.py" health
-python3 "/Users/mac/.codex/skills/amazon-competitive-intelligence-monitor/scripts/monitor.py" create --marketplace US --asin B0FXHWC1NJ --name "US Water Bottle"
-python3 "/Users/mac/.codex/skills/amazon-competitive-intelligence-monitor/scripts/monitor.py" wait --task-id 25
-python3 "/Users/mac/.codex/skills/amazon-competitive-intelligence-monitor/scripts/monitor.py" refresh-competitors --project-id 1
-python3 "/Users/mac/.codex/skills/amazon-competitive-intelligence-monitor/scripts/monitor.py" competitors --project-id 1
-python3 "/Users/mac/.codex/skills/amazon-competitive-intelligence-monitor/scripts/monitor.py" dashboard --project-id 1
+python3 "/Users/mac/.codex/skills/亚马逊竞品分析系统/scripts/monitor.py" health
+python3 "/Users/mac/.codex/skills/亚马逊竞品分析系统/scripts/monitor.py" create --marketplace US --asin B0FXHWC1NJ --name "US Water Bottle"
+python3 "/Users/mac/.codex/skills/亚马逊竞品分析系统/scripts/monitor.py" wait --task-id 25
+python3 "/Users/mac/.codex/skills/亚马逊竞品分析系统/scripts/monitor.py" refresh-competitors --project-id 1
+python3 "/Users/mac/.codex/skills/亚马逊竞品分析系统/scripts/monitor.py" competitors --project-id 1
+python3 "/Users/mac/.codex/skills/亚马逊竞品分析系统/scripts/monitor.py" dashboard --project-id 1
 ```
 
 The CLI starts the local server automatically when an API action needs it. It does not print secrets.

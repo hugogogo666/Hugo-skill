@@ -12,7 +12,7 @@ description: 查询和安全修改 Amazon Seller Central 的价格折扣（Price
 助手：
 
 ```bash
-HELPER="$WENMAI_HOME/skills/amazon-sellercentral-batch-discounts/scripts/batch_discounts.py"
+HELPER="$WENMAI_HOME/skills/亚马逊批量改折扣/scripts/batch_discounts.py"
 ```
 
 只读查询：
