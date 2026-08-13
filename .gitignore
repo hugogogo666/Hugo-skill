@@ -1,0 +1,12 @@
+# Skills must be stored as folders, never as compressed archives.
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# macOS metadata
+.DS_Store
+
+# Python caches
+__pycache__/
+*.py[cod]
