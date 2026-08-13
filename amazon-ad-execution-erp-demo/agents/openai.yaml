@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon 广告自动执行 ERP"
+  short_description: "维护 AdPilot 广告自动化 Demo 与模拟规则执行"
+  default_prompt: "请维护 /Users/mac/Documents/店铺Demo 中的 Amazon 广告自动执行 ERP Demo，保持它与竞品分析项目独立。"
