@@ -1,0 +1,4 @@
+interface:
+  display_name: "亚马逊批量改75字符标题"
+  short_description: "批量高密度改写亚马逊75字符标题与110到120字符商品亮点"
+  default_prompt: "Use $amazon-batch-75-char-title to rewrite my Amazon CSV titles to 70-74 characters and highlights to 110-120 characters."
