@@ -1,0 +1,6 @@
+interface:
+  display_name: "Amazon 价格折扣管理"
+  short_description: "查询并安全修改 Seller Central 的 SKU 价格折扣"
+  default_prompt: "使用 $amazon-sellercentral-batch-discounts 查询当前价格折扣，或按指定 SKU 和百分比安全修改并验证。"
+policy:
+  allow_implicit_invocation: true
