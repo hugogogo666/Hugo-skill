@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon 竞争情报监控"
+  short_description: "自动发现竞品，长期监控关键词、Listing与市场信号"
+  default_prompt: "Use $amazon-competitive-intelligence-monitor to create or refresh an Amazon competitive intelligence project from one marketplace and one own ASIN."
