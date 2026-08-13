@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ozon选品与1688搜图总控"
+  short_description: "先筛选Ozon家居低评价商品，再确认后搜1688货源"
+  default_prompt: "先完成Ozon家居用品低评价选品并让我确认候选商品，再调用1688以图搜款并生成货源匹配结果。"
