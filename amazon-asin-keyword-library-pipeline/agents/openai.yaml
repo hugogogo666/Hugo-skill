@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon ASIN分层关键词词库全链路"
+  short_description: "输入一个Amazon ASIN，自动完成竞品筛选、反查关键词、分层清洗、广告映射、Listing埋词与Excel交付"
+  default_prompt: "请围绕ASIN {asin} 执行Amazon US分层关键词词库全链路，并生成优化版Excel。"
